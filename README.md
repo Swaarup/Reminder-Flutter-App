@@ -1,6 +1,8 @@
-# notekeeper
+# Notekeeper
 
-A new Flutter application.
+A simple Note keeping application used for categorising notes on the basis of the priority 'High' and 'Low'. 
+The high prioriy notes are bubbled to the top of the list where as the low priority are placed below in the list.
+It consists of all basic CRUD operations.
 
 ## Getting Started
 
